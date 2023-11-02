@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/josh/Projects 223/PA3_start_code/build",
+  "command": "/usr/bin/c++    -Wall -g -std=gnu++11 -o CMakeFiles/CPTS_223_PA3-executable.dir/main.cpp.o -c \"/home/josh/Projects 223/PA3_start_code/start_code/main.cpp\"",
+  "file": "/home/josh/Projects 223/PA3_start_code/start_code/main.cpp"
+}
+]
